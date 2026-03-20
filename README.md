@@ -1,2 +1,2 @@
-#Recipes
-##You'll find some recipes in here.
+# Recipes
+## You'll find some recipes in here.
